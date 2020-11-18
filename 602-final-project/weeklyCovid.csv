@@ -1,4 +1,4 @@
-,Date,tot_cases,new_case,tot_death,new_death,previous_week_case,previous_week_death,percent_case_change,percent_death_change
+,Date,tot_cases,new_case,tot_death,new_death,previous_week_case,previous_week_death,percent_caseRate_change,percent_deathRate_change
 0,2020-01-26,1,1.0,0,0.0,0.0,0.0,0.0,0.0
 1,2020-02-02,7,0.0,0,0.0,1.0,0.0,-1.0,0.0
 2,2020-02-09,7,0.0,0,0.0,0.0,0.0,0.0,0.0
